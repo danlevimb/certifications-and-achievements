@@ -11,4 +11,4 @@ This repository compiles my verified certifications, professional courses, and o
 - Mastering Requirements Management with Use Cases [View](/assets/ReqManUseCases.pdf)
 - Mastering Object Oriented Analysis and Design with UML [View](/assets/OOA_UML.pdf)
 
-You can also find project applications of these certifications in my [Data Projects Repository](https://github.com/yourusername/data-projects).
+Back to the [My Profile page](https://github.com/danlevimb).
